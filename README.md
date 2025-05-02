@@ -31,7 +31,6 @@ Cada bandeira tem um padrão único de início e quantidade de dígitos. Abaixo,
 | **Voyager**        | Começa com 8699                             | 15              |
 | **HiperCard**      | Começa com 38 ou 60                         | 13–19           |
 | **Aura**           | Começa com 50                               | 19              |
-|
 
 ---
 
